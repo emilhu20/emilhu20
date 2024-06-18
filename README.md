@@ -11,7 +11,7 @@ I recently graduated with a degree in Computertechnology from Aarhus University 
 
 ## Projects
 Here are a few projects I've worked on:
-- **[Project Name](link-to-project):** Brief description of what the project does, technologies used, and your role.
+- **[Handwritten](https://github.com/emilhu20/DeepLearningProject):** Development of a 
 - **[Project Name](link-to-project):** Brief description of what the project does, technologies used, and your role.
 - **[Project Name](link-to-project):** Brief description of what the project does, technologies used, and your role.
 
