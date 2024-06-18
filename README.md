@@ -1,4 +1,9 @@
 ## Hi there 👋, I'm Emil Hu
+🎓 Newly graduated Engineer (cand.polyt) from Aarhus University with a passion for machine lea
+
+
+## About Me
+I recently graduated with a degree in Computer Engineering and I'm excited to dive into the world of Machine Learning and Deep Learning. I love solving complex problems and turning data into actionable insights. Whether it's through developing cutting-edge neural networks or crafting efficient algorithms, I'm always eager to learn and grow in this ever-evolving field.
 
 
 <!--
