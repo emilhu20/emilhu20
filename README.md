@@ -10,7 +10,7 @@ I recently graduated with a degree in Computertechnology from Aarhus University 
 
 
 ## Projects
-Here are a few projects I've worked on:
+Here are a few projects I have worked on:
 - **[Handwritten Digit Calculator using Knowledge Distillation (KD)](https://github.com/emilhu20/DeepLearningProject)**
 - **[Forecasting the Charging Load on Public Electric Charging Stations](link-to-project)** 
 - **[Recommender System](link-to-project)**
