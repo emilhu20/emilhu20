@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emil Hu</h1>
-<h3 align="center">Cand.polyt in Computertechnology</h3>
 
+Welcome to my GitHub profile. I am a recently graduated Computer Engineer from Aarhus University. During my studies, I have become aqquainted with various branches of software, where the fields of machine learning and deep learning have particularly captured my interest. I like solving complex problems and I am always eager to learn and grow in this ever-evolving field.
 
 ## About Me
-I recently graduated with a degree in Computertechnology from Aarhus University in Denmark. During my studies, I have become aqquainted with various branches of software, where the fields of machine learning and deep learning have particularly captured my interest. I like solving complex problems amd I am always eager to learn and grow in this ever-evolving field.
+🎓 Education: MSc in Computertechonology from Aarhus University
 
+🤖 Interests: Machine and deep learning, forecasting and decision support systems
+
+📘 Learning: Docker and spatio-temporal models
+
+📍 Location: Aarhus, Denmark
+
+❓ Ask me about: Forecasting algorithms and deep learning
 
 <!--I love solving complex problems and turning data into actionable insights. Whether it's through developing cutting-edge neural networks or crafting efficient algorithms, I'm always eager to learn and grow in this ever-evolving field.-->
 
@@ -14,7 +21,7 @@ Here are a few projects I have worked on:
 - **[Forecasting the Charging Load on Public Electric Charging Stations](link-to-project)**
 - **[Spatio-Temporal Hybrid Model for Evaluating New Charging Stations ]()**
 - **[Handwritten Digit Calculator using Knowledge Distillation (KD)](https://github.com/emilhu20/DeepLearningProject)**
-- **[Recommender System](link-to-project)**
+- **[F1Tenth Driving Car](link-to-project)**
   
 
 ## Skills
