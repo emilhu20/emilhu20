@@ -11,10 +11,11 @@ I recently graduated with a degree in Computertechnology from Aarhus University 
 
 ## Projects
 Here are a few projects I have worked on:
+- **[Forecasting the Charging Load on Public Electric Charging Stations](link-to-project)**
+- **[Spatio-Temporal Hybrid Model for Evaluating New Charging Stations ]()**
 - **[Handwritten Digit Calculator using Knowledge Distillation (KD)](https://github.com/emilhu20/DeepLearningProject)**
-- **[Forecasting the Charging Load on Public Electric Charging Stations](link-to-project)** 
 - **[Recommender System](link-to-project)**
-
+  
 
 ## Skills
 - **Programming Languages:** Python, C++
