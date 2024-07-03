@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I am a recently graduated Computer Engineer from A
 Here are a few projects I have worked on:
 - **[Forecasting the Charging Load on Public Electric Charging Stations](link-to-project)**
 - **[Spatio-Temporal Hybrid Model for Evaluating New Charging Stations ]()**
-- **[Handwritten Digit Calculator using Knowledge Distillation (KD)](https://github.com/emilhu20/DeepLearningProject)**
+- **[Handwritten Digit Calculator using Knowledge Distillation (KD)](https://github.com/emilhu20/Handwritten-Digit-Calculator-using-Knowledge-Distillation)**
 - **[F1Tenth Driving Car](link-to-project)**
   
 
