@@ -25,7 +25,7 @@ Here are a few projects I have worked on:
   
 
 ## Skills
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python, C++, C
 - **Libraries and Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, Seaborn.
 - **Tools:** Git, Docker, Jupyter Notebooks
 - **Backend:** RabbitMQ
