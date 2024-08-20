@@ -18,7 +18,7 @@ Welcome to my GitHub profile. I am a recently graduated Computer Engineer from A
 
 ## Projects
 Here are a few projects I have worked on:
-- **[Forecasting the Charging Load on Public Electric Charging Stations](https://github.com/emilhu20/Forecasting-Charging-Load-Charging-Stations)**
+- **[Forecasting the Charging Load on Public Electric Charging Stations](https://github.com/Charging-Stations-Placement/charging-forecasting)**
 - **[Spatio-Temporal Hybrid Model for Evaluating New Charging Stations ](https://github.com/emilhu20/Spatio-Temporal-Model-Charging)**
 - **[Handwritten Digit Calculator using Knowledge Distillation (KD)](https://github.com/emilhu20/Handwritten-Digit-Calculator-using-Knowledge-Distillation)**
 - **[F1Tenth Driving Car](https://github.com/Basaron/BSc-DT-F1-10)**
