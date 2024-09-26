@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I am a recently graduated Computer Engineer from A
 
 🤖 Interests: Machine and deep learning, forecasting and decision support systems
 
-📘 Learning: Docker and spatio-temporal models
+📘 Learning: Algorithmic trading and Microsoft Azure
 
 📍 Location: Aarhus, Denmark
 
